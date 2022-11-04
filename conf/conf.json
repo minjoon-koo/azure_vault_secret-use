@@ -1,0 +1,12 @@
+{
+    "KVUri" : "https://{your-vault-name}.vault.azure.net/",
+    "shell": "bashrc",
+    "ListSecret" : {
+        "AZV에 등록된 키 값":"ENV에 등록된(할) 이름 ",
+        "AZV-AUTH-TOKEN-TEST":"AZV_AUTH_TOKEN_TEST", 
+        "AZV-AUTH-PASSWORD-TEST":"AZV_AUTH_PASSWORD_TEST",
+        "keyvalue3":"env_name3",
+        "keyvalue4":"env_name4"
+    }
+}
+
