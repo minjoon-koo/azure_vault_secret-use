@@ -7,7 +7,8 @@
 
 ### 설치
 1. AZV 초기 세팅 가이드는 document 가이드 참고
-> https://sldt.atlassian.net/wiki/spaces/system/pages/476250164/azure+vault
+> https://learn.microsoft.com/ko-kr/azure/key-vault/secrets/quick-create-python?tabs=azure-cli
+
 > ./.env 파일 생성 필수
 
 >./simple-web/default_env > ./simple-web/.env
